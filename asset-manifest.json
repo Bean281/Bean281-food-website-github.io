@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bean281-food-website-github.io/static/css/main.8bf1eb73.css",
+    "main.js": "/Bean281-food-website-github.io/static/js/main.cfc25d4c.js",
+    "static/js/787.c922dae8.chunk.js": "/Bean281-food-website-github.io/static/js/787.c922dae8.chunk.js",
+    "static/media/hung_nguyen281_qr.png": "/Bean281-food-website-github.io/static/media/hung_nguyen281_qr.6921e6f0b2ab9a0b40d5.png",
+    "index.html": "/Bean281-food-website-github.io/index.html",
+    "main.8bf1eb73.css.map": "/Bean281-food-website-github.io/static/css/main.8bf1eb73.css.map",
+    "main.cfc25d4c.js.map": "/Bean281-food-website-github.io/static/js/main.cfc25d4c.js.map",
+    "787.c922dae8.chunk.js.map": "/Bean281-food-website-github.io/static/js/787.c922dae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf1eb73.css",
+    "static/js/main.cfc25d4c.js"
+  ]
+}
