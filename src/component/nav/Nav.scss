@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    .nav-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 6rem;
+        background-color: #0F0F0F;
+        color: aliceblue;
+        height: 150px;
+    
+        .logo {
+            font-size: 1.75rem;
+        }
+    
+        .option {
+            justify-content: center;
+            display: flex;
+            gap: 10%;
+            
+        }
+
+        .search {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+
+    }
+}
+

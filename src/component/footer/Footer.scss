@@ -1,0 +1,37 @@
+.footer-container {
+    margin-top: 10%;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 7%;
+
+    .option-container {
+        display: flex;
+        width: 50%;
+        justify-content: space-between;
+
+        .footer-option {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            
+            p {
+                margin-bottom: 16px;
+            }
+        }
+    }
+
+    .contact-container {
+        display: flex;
+        flex-direction: column;
+        gap: 36px;
+
+        .box-social {
+            display: flex;
+            gap: 20px;
+            font-size: x-large;
+        }
+
+
+    }
+}
