@@ -20,6 +20,8 @@ const Nav = () => {
             <i class="fa-solid fa-bag-shopping"></i>
             </div>
         </div>
+
+        
     )
 }
 
